@@ -148,7 +148,7 @@ contract Exchange {
 // [X] Deposit Tokens 
 // [X] Withdraw Tokens
 // [X] Check Balanaces 
-// [ ] Make Order 
-// [ ] Cancel Order 
-// [ ] Fill Order 
-// [ ] Charge Fees 
+// [X] Make Order 
+// [X] Cancel Order 
+// [X] Fill Order 
+// [X] Charge Fees 
